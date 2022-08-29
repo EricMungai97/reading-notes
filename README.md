@@ -9,4 +9,4 @@ Hi my name is **Eric Mungai Kinuthia!** I love python
 - Trust the process!
 - No one was good when they started learning!
 
-Link My Github profile: https://ericmungai97.github.io/reading-notes/
+[Link My Github profile](https://ericmungai97.github.io/reading-notes/)
