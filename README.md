@@ -12,8 +12,8 @@ To me '''Growth''' Mindset is taking on challenges and learning from them to imp
 
 ***3 Reminders to keep myself in the Growth Mindset***
 
-- It supposed to be hard , keepgoing!
-- Trust the process!
+- No pain, No gain!
+- Feedback and criticism help me grow as a person!
 - No one was good when they started learning!
 
 [Link My Github profile](https://ericmungai97.github.io/reading-notes/)
