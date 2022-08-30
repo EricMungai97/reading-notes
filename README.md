@@ -16,4 +16,4 @@ To me '''Growth''' Mindset is taking on challenges and learning from them to imp
 - Feedback and criticism help me grow as a person!
 - No one was good when they started learning!
 
-[Link To My Github profile](https://ericmungai97.github.io/reading-notes/)
+[Link To My Github profile](https://github.com/EricMungai97)
