@@ -1,18 +1,17 @@
 # Basic writing and formating syntax
+
 Headings #
 
-Bold ** **
+Bold ****
 
-Italic * *
+Italic **
 
 Quoting a text >
 
-Quoting code ' ' 
+Quoting code ''
 
 Links  [ ] ()
 
 Images ![ ] ()
 
 Unordered list *  -
-
-
