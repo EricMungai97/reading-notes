@@ -1,15 +1,17 @@
 # Revisions and the Cloud
 
- ##**Version Control**
+## **Version Control**
 
 This is a system that allows you to revisit various versions of a fileor set files by recording changes.
 
  Helps *track modifications* and *compare changes*.
 
- ###Centralized Version Control
+## **Centralized Version Control**
+
   Single server storing all changes and file versions and can be accessed by various clients.
 
- ###Distributed Version Control
+## **Distributed Version Control**
+
   Addresses the major vulnerability of the CVS by helpin create mirrored repositories.
 
 ## ***Git***

@@ -1,4 +1,4 @@
-# My Code Fellows Reading Notes!
+# My Code Fellows Reading Notes
 
 ## *My reading notes*
 
