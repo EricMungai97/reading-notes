@@ -98,7 +98,8 @@ To use inline styles, add the style attribute to the relevant element. The style
 Example
 Inline styles are defined within the "style" attribute of the relevant element:
 
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
 <body>
 
