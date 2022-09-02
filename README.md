@@ -15,3 +15,5 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 5. [Class4 Notes](https://ericmungai97.github.io/reading-notes/Class4)
 6. [Class5 Notes](https://ericmungai97.github.io/reading-notes/Class5)
 7. [Class6 Notes](https://ericmungai97.github.io/reading-notes/Class6)
+8. [Class7 Notes](https://ericmungai97.github.io/reading-notes/Class7)
+9. [Class8 Notes](https://ericmungai97.github.io/reading-notes/Class8)
