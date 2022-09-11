@@ -158,7 +158,7 @@ This will render it to look like a top level heading, but it has no semantic val
 
 ## How to add Javascript to a HTML document
 
-*Internal Javascript*
+### *Internal Javascript*
 
 Add the following in your head — just before your closing `</head>` tag:
 
@@ -170,7 +170,7 @@ Add the following in your head — just before your closing `</head>` tag:
 </script>
 ```
 
-*External Javascript*
+### *External Javascript*
 
 * First, create a new file in the same directory as your sample HTML file. Call it script.js — make sure it has that .js filename extension, as that's how it is recognized as JavaScript.
 * Replace your current `<script>` element with the following:
@@ -178,6 +178,6 @@ Add the following in your head — just before your closing `</head>` tag:
 ```
 <script src="script.js" defer></script>
 ```
-## Things I want to know more about
 
+## Things I want to know more about
 
