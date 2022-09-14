@@ -23,7 +23,7 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 ### Code 201 Reading Notes
 
 1. [Getting Started](https://ericmungai97.github.io/reading-notes/class1)
-2. Introduction To Web Development
+2. [Introduction To Web Development](https://ericmungai97.github.io/reading-notes/class2)
 3. Lists, The Box Model, and Loops
 4. Links, Layouts, and Functions
 5. Images, Color, Text, and More Work With Functions
