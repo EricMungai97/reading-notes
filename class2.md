@@ -1,4 +1,6 @@
-# Basics of HTML,CSS & JS
+# Reading Notes 1
+
+## Basics of HTML,CSS & JS
 
 This topic matters to me because it introduces me to useful terminology and their applications for someone who is just starting to learn this langauges. Learning the basic s is how you become great at something.
 
