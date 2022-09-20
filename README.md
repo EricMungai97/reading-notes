@@ -28,7 +28,7 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 4. [Links, Layouts, and Functions](https://ericmungai97.github.io/reading-notes/class4)
 5. [Images, Color, Text, and More Work With Functions](https://ericmungai97.github.io/reading-notes/class5)
 6. [Domain Modeling, Intro to the DOM, and Object Literal Notation](https://ericmungai97.github.io/reading-notes/class6)
-7. HTML Tables and JS Constructor Functions
+7. [HTML Tables and JS Constructor Functions](https://ericmungai97.github.io/reading-notes/class7)
 8. Layout with CSS
 9. Forms and Events
 10. Debugging and Error Handling
