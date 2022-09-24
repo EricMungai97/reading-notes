@@ -31,7 +31,7 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 7. [HTML Tables and JS Constructor Functions](https://ericmungai97.github.io/reading-notes/class7)
 8. [Layout with CSS](https://ericmungai97.github.io/reading-notes/class8)
 9. [Forms and Events](https://ericmungai97.github.io/reading-notes/class9)
-10. Debugging and Error Handling
+10. [Debugging and Error Handling](https://ericmungai97.github.io/reading-notes/class10)
 11. Audio and Video in HTML; Domain Modeling Revisited
 12. Canvas and ChartJS
 13. Introduction to Persistence with Local Storage
