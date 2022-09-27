@@ -4,16 +4,16 @@
 
 In the early 2000s audio and video on the web was made possible by proprietary plugin-based technologies. This technologies had  security and accessibility issues. Today we use HTML to add audio and video elements together with other API's.
 
-## Describe the use of the src and controls attributes in the <video> element.
+## Describe the use of the src and controls attributes in the `<video>` element
 
 The `src` (source) attribute contains a path to the video you want to embed whereas the `control` attribute enables the web user to control the video and audio playback.
 
-## Why is it important to have fallback content inside the <video> element?
+## Why is it important to have fallback content inside the `<video>` element?
 
 The fallback content is displayed if the browser accessing the page doesn't support the `video` element.
 
 
-## Write a very short story where <audio> and <video> are characters.
+## Write a very short story where `<audio>` and `<video> `are characters.
 `<audio>` and `<video>` are two close friends that have nearly the same personalties except but a few which makes both of them unique. `<audio>`
  doesnt support width and height attributes because it has nothing to display.
 
