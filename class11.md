@@ -35,7 +35,7 @@ It helps us deliver the optimal file size and improves the loading time for your
 
 [cite](https://www.lab21.gr/blog/use-responsive-images/#:~:text=Having%20responsive%20images%20is%20important,for%20creating%20a%20responsive%20image.)
 
-## Define the following <img> attributes srcset and sizes. Write an example of how they are used.
+## Define the following `<img>` attributes srcset and sizes. Write an example of how they are used.
 
 `screst`- defines the set of images we will allow the browser to choose between, and what size each image is.
 
