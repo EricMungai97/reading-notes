@@ -34,7 +34,7 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 10. [Debugging and Error Handling](https://ericmungai97.github.io/reading-notes/class10)
 11. [Audio and Video in HTML; Domain Modeling Revisited](https://ericmungai97.github.io/reading-notes/class11)
 12. [Canvas and ChartJS](https://ericmungai97.github.io/reading-notes/class12)
-13. Introduction to Persistence with Local Storage
+13. [Introduction to Persistence with Local Storage](https://ericmungai97.github.io/reading-notes/class13)
 14. Documentation, Project Selection, & Team Workflow
 15. Course Recap & 301 Preview
 
