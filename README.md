@@ -36,5 +36,5 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 12. [Canvas and ChartJS](https://ericmungai97.github.io/reading-notes/class12)
 13. [Introduction to Persistence with Local Storage](https://ericmungai97.github.io/reading-notes/class13)
 14. [Documentation, Project Selection, & Team Workflow](https://ericmungai97.github.io/reading-notes/class14)
-15.[Psychological safety](https://ericmungai97.github.io/reading-notes/Psychologicalsafety)
+15. [Psychological safety](https://ericmungai97.github.io/reading-notes/Psychologicalsafety)
 16. Course Recap & 301 Preview
