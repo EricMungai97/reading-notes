@@ -38,3 +38,22 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 14. [Documentation, Project Selection, & Team Workflow](https://ericmungai97.github.io/reading-notes/class14)
 15. [Psychological safety](https://ericmungai97.github.io/reading-notes/Psychologicalsafety)
 16. Course Recap & 301 Preview
+
+## **Code 301 - Intermediate Software Development**go
+
+### Code 301 Reading Notes
+
+1. []()
+2. []()
+3. []()
+4. []()
+5. []()
+6. []()
+7. []()
+8. []()
+9. []()
+10. []()
+11. []()
+12.  []()
+14. []()
+15. []()
