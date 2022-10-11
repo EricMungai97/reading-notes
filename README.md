@@ -39,7 +39,7 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 15. [Psychological safety](https://ericmungai97.github.io/reading-notes/Psychologicalsafety)
 16. Course Recap & 301 Preview
 
-## **Code 301 - Intermediate Software Development**go
+## **Code 301 - Intermediate Software Development**
 
 ### Code 301 Reading Notes
 
