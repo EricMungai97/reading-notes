@@ -43,7 +43,7 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 
 ### Code 301 Reading Notes
 
-1. []()
+1. [Component based Architecture](https://ericmungai97.github.io/reading-notes/classone)
 2. []()
 3. []()
 4. []()
@@ -54,6 +54,6 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 9. []()
 10. []()
 11. []()
-12.  []()
+12. []()
 14. []()
 15. []()
