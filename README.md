@@ -46,7 +46,7 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 1. [Component based Architecture](https://ericmungai97.github.io/reading-notes/classone)
 2. [React lifecycle](https://ericmungai97.github.io/reading-notes/classtwo)
 3. [Passing Functions as Props](https://ericmungai97.github.io/reading-notes/classthree)
-4. []()
+4. [React and Forms](https://ericmungai97.github.io/reading-notes/classfour)
 5. []()
 6. []()
 7. []()
