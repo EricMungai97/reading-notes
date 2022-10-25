@@ -28,3 +28,22 @@ PUT replaces something in a system with something from another system
 ***What does PATCH do?***
 
 Patch updates the system.
+
+## Geocoding API
+
+Did you get your API key?
+
+yes
+## Weather Bit API
+
+yes
+
+## Yelp API Docs
+
+Did you get your API key?
+yes
+
+## The Movie DB API Docs
+
+Did you get your API key?
+yes
