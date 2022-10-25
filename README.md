@@ -49,7 +49,7 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 4. [React and Forms](https://ericmungai97.github.io/reading-notes/classfour)
 5. [Thinking in React](https://ericmungai97.github.io/reading-notes/classfive)
 6. [An Introduction to Node.js](https://ericmungai97.github.io/reading-notes/classsix)
-7. []()
+7. [REST](https://ericmungai97.github.io/reading-notes/classseven)
 8. []()
 9. []()
 10. []()
