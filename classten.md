@@ -1,5 +1,7 @@
 # Understanding the JavaScript Call Stack
 
+[source](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4)
+
 ***What is a ‘call’?***
 
 A ```call``` is a function invocation.
@@ -36,12 +38,14 @@ Uncaught Error: Stack Trace Error
  at cry
  at laugh
  ```
- 
+
 ***What causes a Stack Overflow?***
 
 A recursive function i.e. a function that calls itself without an exit point. This is because the browser has a maximum stack call it can accomodate.
 
 ## JavaScript Error Messages
+
+[SOURCES](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
 
 ***What is a ‘reference error’?***
 
