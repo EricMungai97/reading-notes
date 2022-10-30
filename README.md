@@ -53,7 +53,7 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 8. [API Design Best Practices](https://ericmungai97.github.io/reading-notes/classeight)
 9. [Functional programming](https://ericmungai97.github.io/reading-notes/classnine)
 10. [Understanding the JavaScript Call Stack](https://ericmungai97.github.io/reading-notes/classten)
-11. []()
+11. [SQL VS NoSQL](https://ericmungai97.github.io/reading-notes/classeleven)
 12. []()
 14. []()
 15. []()
