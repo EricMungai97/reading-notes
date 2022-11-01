@@ -34,35 +34,35 @@ The client has no permission to access the resource.
 
 [SOURCE](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 
-Why do we need to pull our MongoDB database string out of our server and put it into our .env?
+***Why do we need to pull our MongoDB database string out of our server and put it into our .env?***
 
 We don't want to expose that to the public and to the client. .env does not get pushed to github. furthermore, ,it allows that variable to be changed if necessary, without changing the code.
-
-What is middleware?
+***
+***What is middleware?***
 
 Middleware is code that runs when the server gets a request but before it gets passed to your routes.
 
-What does app.use(express.json()) do?
+***What does app.use(express.json()) do?***
 
 Lets our server accept JSON
 It sets up the server to use JSON as return data from a request
 
-What does the /:id mean in a route?
+***What does the /:id mean in a route?***
 
 ```/:id``` refers to a parameter passed in to get a specific piece of data. It can be accessed with  ```request.params```
 
-What is the difference between PUT and PATCH?
+***What is the difference between PUT and PATCH?***
 
 ```PUT``` updates a piece of data to a new value, while ```PATCH``` is only a partial update to a piece of data.
 
-How do you make a default value in a schema?
+***How do you make a default value in a schema?***
 
 You add a ```default``` field in the properties object for a key
 
-What does a 500 error status code mean?
+***What does a 500 error status code mean?***
 
 ```Internal Server Error```
 
-What is the difference between a status 200 and a status 201?
+***What is the difference between a status 200 and a status 201?***
 
 ``` 201``` is specifically returned after something is successfully created.
