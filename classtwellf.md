@@ -1,5 +1,7 @@
 # Status Codes Based on REST Methods
 
+[SOURCE](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)
+
 ***In your own words, describe what each group of status code represents:***
 
 100’s = Informational status codes
@@ -29,6 +31,8 @@
 The client has no permission to access the resource.
 
 ## BUILDING REST API
+
+[SOURCE](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 
 Why do we need to pull our MongoDB database string out of our server and put it into our .env?
 
