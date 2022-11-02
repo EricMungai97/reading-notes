@@ -55,5 +55,5 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 10. [Understanding the JavaScript Call Stack](https://ericmungai97.github.io/reading-notes/classten)
 11. [SQL VS NoSQL](https://ericmungai97.github.io/reading-notes/classeleven)
 12. [Status Codes Based on REST Methods](https://ericmungai97.github.io/reading-notes/classtwelve)
-14. []()
+14. [More Crud](https://ericmungai97.github.io/reading-notes/classthirteen)
 15. []()
