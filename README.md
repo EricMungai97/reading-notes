@@ -62,3 +62,5 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 ## **Code 401 - Advanced Software Development**
 
 ### Code 401 Reading Notes
+
+1. [Bash Practice](https://ericmungai97.github.io/reading-notes/bashpractice)
