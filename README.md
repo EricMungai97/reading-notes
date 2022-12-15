@@ -65,3 +65,4 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 
 1. [Bash Practice](https://ericmungai97.github.io/reading-notes/bashpractice)
 2. [SQL Practice](https://ericmungai97.github.io/reading-notes/sqlpractice)
+3. [Growth Mindset](https://ericmungai97.github.io/reading-notes/growthmindset)
