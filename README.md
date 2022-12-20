@@ -67,3 +67,4 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 2. [SQL Practice](https://ericmungai97.github.io/reading-notes/sqlpractice)
 3. [Growth Mindset](https://ericmungai97.github.io/reading-notes/growthmindset) 
 4. [Big O Notation, Name and Values in Python](https://ericmungai97.github.io/reading-notes/Read1)
+5. [Engineer Readings](https://ericmungai97.github.io/reading-notes/engineer)
