@@ -69,3 +69,4 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 4. [Big O Notation, Name and Values in Python](https://ericmungai97.github.io/reading-notes/Read1)
 5. [Engineer Readings](https://ericmungai97.github.io/reading-notes/engineer)
 6. [Data Structures and Algorithms](https://ericmungai97.github.io/reading-notes/dsaprep)
+7.[Testing and Modules](https://ericmungai97.github.io/reading-notes/xlass002)
