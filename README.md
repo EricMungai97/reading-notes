@@ -76,3 +76,4 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 12. [How to useRandom Module](https://ericmungai97.github.io/reading-notes/xlass006)
 13. [Python Scope](https://ericmungai97.github.io/reading-notes/xlass007)
 14. [List Comprehension](https://ericmungai97.github.io/reading-notes/xlass008)
+15. [Stacks and queues](https://ericmungai97.github.io/reading-notes/xlass009)
