@@ -72,7 +72,7 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 7. [Testing and Modules](https://ericmungai97.github.io/reading-notes/xlass002)
 8. [Reading and writing files in Python](https://ericmungai97.github.io/reading-notes/xlass003)
 9. [Classes and Objects](https://ericmungai97.github.io/reading-notes/xlass004)
-11. []()
+11. [Linked List](https://ericmungai97.github.io/reading-notes/xlass005)
 12. [How to useRandom Module](https://ericmungai97.github.io/reading-notes/xlass006)
 13. [Python Scope](https://ericmungai97.github.io/reading-notes/xlass007)
 14. [List Comprehension](https://ericmungai97.github.io/reading-notes/xlass008)
