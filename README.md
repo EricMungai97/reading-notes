@@ -78,3 +78,4 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 14. [List Comprehension](https://ericmungai97.github.io/reading-notes/xlass008)
 15. [Stacks and queues](https://ericmungai97.github.io/reading-notes/xlass009)
 16. [Numpy Arrays](https://ericmungai97.github.io/reading-notes/xlass010)
+17. [Pandas](https://ericmungai97.github.io/reading-notes/xlass011)
