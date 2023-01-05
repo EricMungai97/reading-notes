@@ -1,5 +1,7 @@
 # Matplotlib Tutorial
 
+[Source](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
+
 Matplotlib is most used package for 2 D graphics.
 
 It enables one to visualize data from Python and publication-quality figures in many formats.
@@ -21,6 +23,8 @@ plt.show()
 Matplotlib comes with a set of default settings that allow customizing all kinds of properties. You can control the defaults of almost every property in matplotlib: `figure size` and `dpi`, `line width`, `color` and `style`, `axes`, `axis` and `grid` properties, `text` and `font properties` and so on. While matplotlib defaults are rather good in most cases, you may want to modify some properties for specific cases.
 
 ## Seaborn
+
+[Source](https://seaborn.pydata.org/tutorial/introduction.html)
 
 Seaborn is a library for making statistical graphics in Python. It builds on top of matplotlib and integrates closely with pandas data structures.
 
