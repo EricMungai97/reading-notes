@@ -1,5 +1,7 @@
 # Linear Regression in Python
 
+[Source](https://www.activestate.com/resources/quick-reads/how-to-run-linear-regressions-in-python-scikit-learn/)
+
 Scikit-learn is a Python package that simplifies the implementation of a wide range of Machine Learning (ML) methods for predictive data analysis, including linear regression.
 
 Linear regression can be thought of as finding the straight line that best fits a set of scattered data points: 
