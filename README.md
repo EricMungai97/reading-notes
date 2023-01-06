@@ -81,3 +81,6 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 17. [Pandas](https://ericmungai97.github.io/reading-notes/xlass011)
 18. [Linear Regression in Python](https://ericmungai97.github.io/reading-notes/xlass012)
 19. [Data Visualization](https://ericmungai97.github.io/reading-notes/xlass013)
+20. [Trees](https://ericmungai97.github.io/reading-notes/xlass014)
+21. [Serverless Functions](https://ericmungai97.github.io/reading-notes/xlass015)
+
