@@ -83,4 +83,4 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 19. [Data Visualization](https://ericmungai97.github.io/reading-notes/xlass013)
 20. [Trees](https://ericmungai97.github.io/reading-notes/xlass014)
 21. [Serverless Functions](https://ericmungai97.github.io/reading-notes/xlass015)
-
+22. [Web Scraping](https://ericmungai97.github.io/reading-notes/xlass016)
