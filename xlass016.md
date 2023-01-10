@@ -1,5 +1,7 @@
 # Web Scraping
 
+[Source](https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460)
+
 `Web scraping` is a technique to automatically access and extract large amounts of information from a website.
 
 **Things to Note When Web Scraping**
@@ -88,6 +90,8 @@ for one_a_tag in soup.findAll('a'):  #'a' tags are for links
     #add 1 for next line
     line_count +=1
 ```
+
+[Source](https://www.scrapehero.com/how-to-prevent-getting-blacklisted-while-scraping/)
 
 ## How to web scrape without getting blocked
 
