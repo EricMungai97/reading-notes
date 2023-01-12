@@ -1,5 +1,7 @@
 # Regular Expressions
 
+[Source](https://www.datacamp.com/community/tutorials/python-regular-expression-tutorial)
+
 Regex is a sequence of characters used to check whether a pattern exists in a given text(string) or not.
 
 Regex is uses include:
@@ -87,6 +89,8 @@ The + and * qualifiers are said to be greedy.
 
 ## Shutil
 
+[Source](https://pymotw.com/3/shutil/)
+
 The shutil module includes high-level file operations such as copying and archiving.
 
 `copyfile()` copies the contents of the source to the destination and raises IOError if it does not have permission to write to the destination file.
@@ -102,4 +106,6 @@ Use `make_archive()` to create a new archive file
 Extract the archive with `unpack_archive()`
 
 ## Things I want to know more about
+
+I need to delve deeper on how to use Shutil methods.
 
