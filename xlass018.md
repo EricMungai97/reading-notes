@@ -109,3 +109,5 @@ Extract the archive with `unpack_archive()`
 
 I need to delve deeper on how to use Shutil methods.
 
+Watchdog Library methods
+
