@@ -86,3 +86,4 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 22. [Web Scraping](https://ericmungai97.github.io/reading-notes/xlass016)
 23. [Cryptography](https://ericmungai97.github.io/reading-notes/xlass017)
 24. [Automation](https://ericmungai97.github.io/reading-notes/xlass018)
+25. [Intro to Django](https://ericmungai97.github.io/reading-notes/xlass019)
