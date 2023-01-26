@@ -1,5 +1,7 @@
 # Django Custom User Model
 
+[Source](https://learndjango.com/tutorials/django-custom-user-model)
+
 For a real world project Official Django documentation highly recommends using a custom user model instead.
 
 ## AbstractUser vs AbstractBaseUser
