@@ -90,3 +90,4 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 26. [Django  Models](https://ericmungai97.github.io/reading-notes/xlass020)
 27. [Django CRUD and Forms](https://ericmungai97.github.io/reading-notes/xlass021)
 28. [Django Custom User Model](https://ericmungai97.github.io/reading-notes/xlass022)
+29. [Hashtables](https://ericmungai97.github.io/reading-notes/xlass023)
