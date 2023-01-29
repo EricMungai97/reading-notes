@@ -93,6 +93,10 @@ Django creates websites containing webpages, while Django REST Framework creates
 
 The `__init__.py` indicates that the files in the folder are part of a Python package.
 
+The rest framework also includes `serialization` and `parser/renderer` components that make it easy to build appropriate media types, hyperlinked relations for building well-connected systems, and great support for content negotiation
+
+REST framework doesn't give you machine-readable hypermedia formats such as HAL, Collection+JSON API or HTML microformats
+
 ## Things I would like to know more about.
 
 How Docker Caches the steps in a Dockerfile.
