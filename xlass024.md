@@ -83,6 +83,8 @@ The `Pipfile` contains information on our software packages so we copy that over
 
 We then run `docker-composer.yml`
 
+Tool for defining and running multiple containers.
+
 ## Django for APIs
 
 [source](https://djangoforapis.com/library-website-and-api/)
