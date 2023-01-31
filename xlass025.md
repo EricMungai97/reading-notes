@@ -96,3 +96,7 @@ The methods should return `True` if the request should be granted access, and `F
 * Django REST Framework API Key - provides permissions classes, models and helpers to add API key authorization to your API
 
 * Django REST Framework Role Filters
+
+## Things I want to know more about
+
+`serializer_class`
