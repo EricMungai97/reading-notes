@@ -93,3 +93,4 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 29. [Hashtables](https://ericmungai97.github.io/reading-notes/xlass023)
 30. [Beginners Gudie to Docker](https://ericmungai97.github.io/reading-notes/xlass024)
 31. [DRF Permissions](https://ericmungai97.github.io/reading-notes/xlass025)
+32. [Authentication and Production Server](https://ericmungai97.github.io/reading-notes/xlass026)
