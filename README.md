@@ -95,3 +95,4 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 31. [DRF Permissions](https://ericmungai97.github.io/reading-notes/xlass025)
 32. [Authentication and Production Server](https://ericmungai97.github.io/reading-notes/xlass026)
 33. [Django Settings Best Practices](https://ericmungai97.github.io/reading-notes/xlass027)
+34. [Best WhiteBoard Practices](https://ericmungai97.github.io/reading-notes/xlass029)
