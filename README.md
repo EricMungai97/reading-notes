@@ -98,3 +98,4 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 34. [Best WhiteBoard Practices](https://ericmungai97.github.io/reading-notes/xlass029)
 35. [React, Next JS](https://ericmungai97.github.io/reading-notes/xlass030)
 36. [React Forms, Lists and Keys, Lifting State, Composition vs Inheritance](https://ericmungai97.github.io/reading-notes/xlass031)
+37. [React Context, Next JS, Assets, MetaData and CSS](https://ericmungai97.github.io/reading-notes/xlass032)
