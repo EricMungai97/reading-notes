@@ -2,6 +2,8 @@
 
 ## Dunder Methods
 
+[source](https://dbader.org/blog/python-dunder-methods)
+
 Special methods are a set of predefined methods you can use to enrich your classes. They are easy to recognize because they start and end with double underscores, for example __init__ or __str__.
 
 Dunder methods help you emulate the behavior of `built-in` types.
@@ -33,6 +35,8 @@ A `context manager` is a simple “protocol” (or interface) that your object n
 Basically all you need to do is add` __enter__ and __exit__ `methods to an object if you want it to function as a context manager.
 
 ## Iterators
+
+[source](https://dbader.org/blog/python-iterators)
 
 Iterators provide a sequence interface to Python objects that’s `memory efficient` and considered Pythonic. Behold the beauty of the for-in loop!
 
@@ -78,6 +82,8 @@ class BoundedRepeater:
 ```
 
 ## Generators
+
+[source](https://dbader.org/blog/python-generators)
 
 `Generator functions` are syntactic sugar for writing objects that support the iterator protocol. 
 
