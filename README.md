@@ -102,3 +102,4 @@ Hi my name is **Eric Mungai Kinuthia!** I have a background in Finance from the 
 38. [Dynamic Routes, NEXT JS deployment](https://ericmungai97.github.io/reading-notes/xlass033)
 39. [Pythonisms](https://ericmungai97.github.io/reading-notes/xlass034)
 40. [Ethics](https://ericmungai97.github.io/reading-notes/xlass035)
+41. [Open Source Contribution](https://ericmungai97.github.io/reading-notes/xlass037)
