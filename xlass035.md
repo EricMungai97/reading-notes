@@ -12,7 +12,8 @@ This is a complicated question that involves not just liability, but also questi
 
 It is essential that we address this issue proactively and work to establish clear guidelines and regulations for the safe and responsible operation of self-driving cars. 
 
-Overall, the article highlights the importance of continuing to have discussions about the ethical implications of new technologies, and I belie
+Overall, the article highlights the importance of continuing to have discussions about the ethical implications of new technologies, and I believe this is a crucial conversation that we must continue to have in the years to come.
+
 
 
 ## Project Dragonfly, Google's censored search engine
